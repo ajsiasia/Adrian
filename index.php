@@ -1,4 +1,5 @@
 <?php
+header ("Content-type: text/xml");
 
 $db_username = 'admin';
 $db_password = 'root1234';
